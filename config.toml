@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "https://distracted-bhaskara-174b83.netlify.com"
 title = "Mainroad"
 languageCode = "en-us"
 paginate = "10" # Number of posts per page
